@@ -1,0 +1,2 @@
+# Shopee_Charge_Calculate
+計算蝦皮實收要賦予的金額
